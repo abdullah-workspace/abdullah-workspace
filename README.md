@@ -7,7 +7,8 @@ CS undergraduate | Web Developer | Problem Solver<br>Passionate about building s
 
 ### 💼 Portfolio Page :
 <a href="https://abdullah-workspace.github.io/MY-PORTFOLIO/" target="_blank">
-  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="28"/>
+  <p>Click on this icon to view my portfolio page :</p>
+  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="40"/>
 </a>
 
 
