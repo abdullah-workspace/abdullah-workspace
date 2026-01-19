@@ -6,8 +6,8 @@ CS undergraduate | Web Developer | Problem Solver<br>Passionate about building s
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malikabdulllah005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mabdullahcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikabdullahh052@gmail.com) 
 
 ### 🌐 Portfolio
-<a href="[https://your-portfolio-link.com](https://abdullah-workspace.github.io/MY-PORTFOLIO/)" target="_blank">
-  <img src="[https://img.icons8.com/ios-filled/50/000000/domain.png](https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png)" width="25"/>
+<a href="https://abdullah-workspace.github.io/MY-PORTFOLIO/" target="_blank">
+  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="22"/>
 </a>
 
 # 💻 Tech Stack:
