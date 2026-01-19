@@ -1,13 +1,13 @@
-<img width="840" height="881" alt="image" src="https://github.com/user-attachments/assets/e5f3e9b8-7e11-4744-8b35-4739252ccd40" /># 💫 About Me:
+# 💫 About Me:
 CS undergraduate | Web Developer | Problem Solver<br>Passionate about building scalable web applications and learning new technologies. Currently working with HTML, CSS, JavaScript, React, Node.js, and MongoDB, and always eager to grow through real-world projects and collaboration.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malikabdulllah005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mabdullahcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikabdullahh052@gmail.com) 
 
-### 🌐 Portfolio
+### 💼 Portfolio Page:
 <a href="https://abdullah-workspace.github.io/MY-PORTFOLIO/" target="_blank">
-  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="22"/>
+  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="30"/>
 </a>
 
 # 💻 Tech Stack:
