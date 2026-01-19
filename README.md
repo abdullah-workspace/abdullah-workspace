@@ -6,9 +6,9 @@ CS undergraduate | Web Developer | Problem Solver<br>Passionate about building s
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malikabdulllah005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mabdullahcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikabdullahh052@gmail.com) 
 
 ### 💼 Portfolio Page :
+ <p>Click on icon below to view my portfolio page :</p>
 <a href="https://abdullah-workspace.github.io/MY-PORTFOLIO/" target="_blank">
-  <p>Click on this icon to view my portfolio page :</p>
-  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="40"/>
+  <img src="https://www.pngkey.com/png/detail/154-1545377_portfolio-icon.png" width="60"/>
 </a>
 
 
